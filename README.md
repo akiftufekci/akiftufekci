@@ -1,10 +1,12 @@
-![logo](link)
+![logo](https://github.com/akiftufekci/akiftufekci/blob/ee8b7e031437110eda53f7707aede664c3b30283/Akif_Banner.png)
 
 
 <h1 align="center">Hi, I'm Mehmet Akif Tufekci</h1>
 <h3 align="center">A passionate Computer Programmer from Turkey</h3>
 
 [![](https://visitcount.itsvg.in/api?id=akiftufekci&icon=1&color=12)](https://visitcount.itsvg.in)
+
+<img align="right" alt="Coding" width="340" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajYxdXdvbTVkOHpxZ2Z0bTR6Y2p6ZnFxdWNxYnhkOThhdGExN2JwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eWE5ioAD0MZsa0E5Eq/giphy.webp">
 
  <h3 align="left"> :mag_right: About Me</h3>
  
