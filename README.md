@@ -6,7 +6,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=akiftufekci&icon=1&color=12)](https://visitcount.itsvg.in)
 
-<img align="right" alt="Coding" width="340" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajYxdXdvbTVkOHpxZ2Z0bTR6Y2p6ZnFxdWNxYnhkOThhdGExN2JwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eWE5ioAD0MZsa0E5Eq/giphy.webp">
+<img align="right" alt="Coding" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajYxdXdvbTVkOHpxZ2Z0bTR6Y2p6ZnFxdWNxYnhkOThhdGExN2JwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eWE5ioAD0MZsa0E5Eq/giphy.webp">
 
  <h3 align="left"> :mag_right: About Me</h3>
  
