@@ -6,7 +6,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=akiftufekci&icon=1&color=12)](https://visitcount.itsvg.in)
 
-<img align="right" alt="Coding" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajYxdXdvbTVkOHpxZ2Z0bTR6Y2p6ZnFxdWNxYnhkOThhdGExN2JwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eWE5ioAD0MZsa0E5Eq/giphy.webp">
+<img align="right" alt="Coding" width="300" src="https://private-user-images.githubusercontent.com/74038190/240308118-6f28d73e-0d7e-4a6c-8ddf-bb24b69a71c0.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjEzNzkwMzIsIm5iZiI6MTcyMTM3ODczMiwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDgxMTgtNmYyOGQ3M2UtMGQ3ZS00YTZjLThkZGYtYmIyNGI2OWE3MWMwLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzE5VDA4NDUzMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWIwY2IxYjc3YWZiZTdmOWMwZWFhYjk5MzM0ZDdiYjY1MGU2NzBlZGFjMWFmYzU3MjBkZjg2MjExNmY3ZTUzOTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.vrvpsn7J7BzRVOUOsVBazYUI4EYIDwb7gVotE43THtA">
 
  <h3 align="left"> :mag_right: About Me</h3>
  
