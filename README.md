@@ -1,7 +1,7 @@
 ![logo](https://github.com/akiftufekci/akiftufekci/blob/ee8b7e031437110eda53f7707aede664c3b30283/Akif_Banner.png)
 
 
-<h1 align="center">Hi, I'm Mehmet Akif Tufekci</h1>
+<h1 align="center">Hi, I'm Mehmet Akif Tüfekçi</h1>
 <h3 align="center">A passionate Computer Programmer from Turkey</h3>
 
 [![](https://visitcount.itsvg.in/api?id=akiftufekci&icon=1&color=12)](https://visitcount.itsvg.in)
