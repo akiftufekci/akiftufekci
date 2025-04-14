@@ -18,7 +18,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=akiftufekci&icon=1&color=1)](https://visitcount.itsvg.in)
 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akif@tufekci.me) 
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
