@@ -8,11 +8,8 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) 
 
-# 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=akiftufekci&theme=transparent&hide_border=false)<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=akiftufekci&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
 
 ---
